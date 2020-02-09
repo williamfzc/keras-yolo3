@@ -1,3 +1,5 @@
+> IMPORTANT: This repo was built for personal usage (with some specific modification). Please use the origin repo for production.
+
 # keras-yolo3
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
